@@ -144,6 +144,3 @@ flowchart TD
 Pull requests and issues are welcome. Please follow best practices for Python, Docker, and Kubernetes.
 
 ---
-
-## License
-MIT License 
